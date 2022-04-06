@@ -28,9 +28,10 @@
 
 `sudo chown -R $USER:$USER /var/www/projectlamp`
 
-![project LAMP](./images/sudo%20projectlamp%20working.PNG)
 
 `sudo vi /etc/apache2/sites-available/projectlamp.conf`
+
+![project LAMP](./images/sudo%20projectlamp%20working.PNG)
 
 
 `<VirtualHost *:80>
